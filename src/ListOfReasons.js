@@ -18,7 +18,7 @@ class ListOfReasons extends React.Component
   }
 
   render(){
-    let header1 = (<h1>Hello {this.props.title}, u sexy</h1>);
+    let header1 = (<h1>Hey {this.props.title}, u sexy</h1>);
     return (
       <div>
         <p>
